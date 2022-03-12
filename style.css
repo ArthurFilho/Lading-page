@@ -120,13 +120,13 @@ select{
 }
 footer{
     justify-content: center;
-display: flex;
-    background-color: #202134;
-  color: white;
+    display: flex;
+     color: white;
   
 }
 .footers{
-    width: 40%;
-    display: flex;
-justify-content: space-around;
+    background-color: #181818; 
+    height: 100px;
+    justify-content: center;
+    align-items: center;
 }
